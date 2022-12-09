@@ -19,7 +19,7 @@ long obtenerTiempo(){
 
 int main(){
     long inicio = obtenerTiempo(); // instancia inicial
-    // incio de operación random
+    // incio de operación random para ordenar números con sort
     double tiempoEnSegundos;
     long tiempoEnMicrosegundos;
     int arr[] = {5,7,3,6,1,9,8,4,2};
